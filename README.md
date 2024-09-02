@@ -52,6 +52,7 @@ El robot se mueve en relación a sus propios ejes de articulación, controlando 
 
   
 - Alejandro Saldaña Garcia:
+- Alejandro Saldaña Garcia: observamos como con un brazo robotico de 6 grados de libertad es suficiente para los principios de cualquier programación robotica, poniendo en práctica el uso correcto de modo prueba pudimos poner a prueba su fiabilidad y seguridad.
 
 # Referencias bibliograficas
 [1] «Epson - Grupo Kopar», Numen. https://www.kopar.com.mx/micrositios/epson/
