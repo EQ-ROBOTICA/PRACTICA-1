@@ -12,11 +12,11 @@ La precisión que se tiene con los Robots Epson ayuda a reducir los costos de pr
 # Instrucciones
 Instalacion de Software
 
-Como primer paso de instalo el programa EpsonRC+, que es un entorno de enseñanza simple y visual creado para usuarios que son nuevos en la automatización de robots y tienen poca o ninguna experiencia en programación, como nosotros.
+Como primer paso, se instaló el programa EpsonRC+, un entorno de enseñanza simple y visual creado tanto para usuarios nuevos en la automatización de robots con poca experiencia en programación, como para usuarios más avanzados, ya que ofrece un conjunto completo de herramientas y funciones avanzadas en un entorno conveniente e integrado.
 
 Conexion al robot Epson C4
 
-Para la conexion de EpsonRC+ con el Robot se hizo uso de un cable USB desde la computadora hasta el controlador del robot Epson C4. se puso el entorno en modo "Prueba" y se le dio movilidad de forma manual, dentro del modo prueba el se limitó el pocentaje de fuerza a un 30% y en caso de colision de paraba de manera automatica evitando daños en el equipo. Dentro del Software de mostró el estado del robot, incluyendo su posición actual y los estados de los ejes.
+Para la conexion de EpsonRC+ con el Robot se hizo uso de un cable USB desde la computadora hasta el controlador del robot Epson C4. se puso el entorno en modo "Prueba" y se le dio movilidad de forma manual, dentro del modo prueba el se limitó el pocentaje de fuerza a un 30% y en caso de colision se paraba de manera automatica evitando daños en el equipo. Dentro del Software de mostró el estado del robot, incluyendo su posición actual y los estados de los ejes.
 
 Partes del robot
 - Base
@@ -53,3 +53,7 @@ El robot se mueve en relación a sus propios ejes de articulación, controlando 
   
 - Alejandro Saldaña Garcia:
 
+# Referencias bibliograficas
+[1] «Epson - Grupo Kopar», Numen. https://www.kopar.com.mx/micrositios/epson/
+
+[2] «Opciones de Software para Robots Industriales | Epson México». https://epson.com.mx/opciones-software-robots-industriales
