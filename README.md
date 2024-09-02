@@ -48,7 +48,7 @@ El robot se mueve en relación a sus propios ejes de articulación, controlando 
   deseado, teniendo una presicion asegurada y por otro lado el modo joint nos permite movimientos sin un orden o plano fijo, de manera que puede realizar diferentes tipos de rotacion, extension o contraccion para 
   realizar una accion de manera mas rapida sin seguir una trayectoria precisa.
 
-- Gael Mateo Rangel Chavez:
+- Gael Mateo Rangel Chavez: Un brazo robótico como el visto durante la práctica sirve para realizar una gran cantidad de tareas diferentes. Durante la práctica se uso el modo world y joint, el modo world permite mover la garra del brazo en un plano con 3 ejes establecidos, mientras que el modo joint permite mover cada eje individualmente.
 
   
 - Alejandro Saldaña Garcia:
