@@ -5,7 +5,7 @@
  - Gael Mateo Rangel Chavez
  - Alejandro Saldaña Garcia
 
-# Itroducción
+# Introducción
 Epson Robots es el líder industrial en facilidad de uso, desempeño y confiabilidad, además de proveer una extensa selección de opciones para elegir la mejor solución en automatización. Los robots compactos y de alto rendimiento Epson de 6 ejes permiten un rango de movimiento notable en un espacio reducido.
 La precisión que se tiene con los Robots Epson ayuda a reducir los costos de producción y aumentar la calidad de los productos. Los robots SCARA de Epson son insuperables en rendimiento y confiabilidad. La finalidad de esta practica es familiarizarnos con este tipo de robot y comprender su funcionamiento.
 
